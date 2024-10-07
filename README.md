@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a dev from Switzerland<br><br>- 📚 I'm currently a student at SAE Geneva in web devenopement and programing<br>- ⚡ In my free time I like to go workout and play video agesm with friends</p>
+<p align="left">I'm a dev from Switzerland<br><br>- 📚 I'm currently a student at SAE Geneva in web devenopement and programing<br>- ⚡ In my free time I like to go workout and play video games with friends</p>
 
 ###
 
