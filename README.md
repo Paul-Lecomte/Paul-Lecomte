@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="Paul-Lecomte Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Paul-Lecomte&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
