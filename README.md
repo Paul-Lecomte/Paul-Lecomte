@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://ch.linkedin.com/in/paul-lecomte-539b46216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Paul-Lecomte.Paul-Lecomte&" />
 </div>
 
@@ -20,6 +14,14 @@
   - 📚 I'm currently a student at SAE Geneva in web development and programming.<br>
   - ⚡ In my free time, I enjoy working out and playing video games with friends.
 </p>
+
+<h3 align="left">👩‍💻 Contact Me:</h3>
+
+<div align="center">
+  <a href="https://ch.linkedin.com/in/paul-lecomte-539b46216" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
