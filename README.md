@@ -52,12 +52,3 @@
 </div>
 
 ###
-
-<h2 align="left">🚀 Current Projects</h2>
-
-<ul>
-  <li><b>Stocker Project:</b> A full-stack inventory management system using React, Node.js, and MongoDB. <a href="https://github.com/Paul-Lecomte/stocker-frontend" target="_blank">Frontend Repo</a> | <a href="https://github.com/Paul-Lecomte/stocker-backend" target="_blank">Backend Repo</a></li>
-  <li><b>Howler:</b> A real-time notification and socket.io integration project. <a href="https://github.com/Paul-Lecomte/howler" target="_blank">Repository</a></li>
-</ul>
-
-###
