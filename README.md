@@ -67,14 +67,14 @@
 ###
 
 <div align="center">
-  ![Paul-Lecomte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="Paul-Lecomte's Streak">
 </div>
 
 ###
 
 <div align="center">
-  ![Paul-Lecomte's Stats](https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Paul-Lecomte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Paul-Lecomte's Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Paul-Lecomte's Top Languages">
 </div>
 
 ###
