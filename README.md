@@ -67,14 +67,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="Paul-Lecomte's Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="Paul-Lecomte Streak">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Paul-Lecomte's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Paul-Lecomte's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Paul-Lecomte Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Paul-Lecomte Top Languages">
 </div>
 
 ###
