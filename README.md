@@ -5,11 +5,11 @@
 <h1 align="center">👋 Hello there, I'm Paul</h1>
 <h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-lecomte" alt="paul-lecomte" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-lecomte" alt="paul-lecomte" /></a> </p>
 
-<h3 align="left">👩‍💻 About Me:</h3>
+<h3 align="center">👩‍💻 About Me:</h3>
 
-<p align="left">
+<p align="center">
   I'm a dev from Switzerland!<br><br>
   - 📚 I'm currently a student at SAE Geneva in web development and programming.<br>
   - ⚡ In my free time, I enjoy working out and playing video games with friends.
@@ -23,9 +23,9 @@
   </a>
 </div>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="center">🛠 Languages and Tools:</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="center">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="GitHub Streak" />
