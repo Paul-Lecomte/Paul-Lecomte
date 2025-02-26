@@ -15,7 +15,7 @@
   - ⚡ In my free time, I enjoy working out and playing video games with friends.
 </p>
 
-<h3 align="left">👩‍💻 Contact Me:</h3>
+<h3 align="center">👩‍💻 Contact Me:</h3>
 
 <div align="center">
   <a href="https://ch.linkedin.com/in/paul-lecomte-539b46216" target="_blank">
