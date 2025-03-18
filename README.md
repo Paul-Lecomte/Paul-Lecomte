@@ -5,8 +5,9 @@
 <h1 align="center">👋 Hello there, I'm Paul</h1>
 <h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
-### 🏆 GitHub Profile Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paul-Lecomte&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Paul-Lecomte&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <h3 align="center">👩‍💻 About Me:</h3>
 
