@@ -5,9 +5,11 @@
 <h1 align="center">👋 Hello there, I'm Paul</h1>
 <h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Paul-Lecomte&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Paul-Lecomte&theme=algolia" alt="GitHub Trophies">
+  </a>
+</p>
 
 <h3 align="center">👩‍💻 About Me:</h3>
 
