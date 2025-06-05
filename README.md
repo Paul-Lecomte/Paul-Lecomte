@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
 </div>
 
-<h3 align="center">🔥 My Stats:</h3>
+<h3 align="center">My Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="GitHub Streak" />
