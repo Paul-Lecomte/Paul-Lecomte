@@ -54,6 +54,12 @@
 <h3 align="center">My Stats:</h3>
 
 <div align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true](https://github-readme-stats.hackclub.dev/api/wakatime?username=7513&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)" alt="hack club streak" />
+</div>
+
+
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
