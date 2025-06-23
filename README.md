@@ -1,63 +1,62 @@
-<div  align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Paul-Lecomte.Paul-Lecomte&" />
-</div>
-
-<h1 align="center">👋 Hello there, I'm Paul</h1>
-<h3 align="center">A passionate fullstack developer from Switzerland</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paul-Lecomte" alt="GitHub Trophies">
-  </a>
-</p>
-
-<h3 align="center">👩‍💻 About Me:</h3>
-
-<p align="center">
-  I'm a dev from Switzerland!<br><br>
-  - 📚 I'm currently a student at SAE Geneva in web development and programming.<br>
-  - ⚡ In my free time, I enjoy working out and playing video games with friends.
-</p>
-
-<h3 align="center">👩‍💻 Contact Me:</h3>
-
 <div align="center">
-  <a href="https://ch.linkedin.com/in/paul-lecomte-539b46216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-<h3 align="center">🛠 Languages and Tools:</h3>
+![count](https://komarev.com/ghpvc/?username=Paul-Lecomte&label=Profile%20views&color=0e75b6&style=flat)
+# Hi 👋, I'm Paul
+A passionate fullstack developer from Switzerland :switzerland:.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="PHPStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="Bulma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-</div>
-
-<h3 align="center">My Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Paul-Lecomte Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paul-Lecomte&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+![trophies](https://github-profile-trophy.vercel.app/?username=Paul-Lecomte)
+
+</div>
+
+<div align="center">
+
+## Languages
+
+![HTML5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## Some Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Paul-Lecomte&show_icons=true&locale=en&layout=compact&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&show_icons=true&locale=en&theme=dark)
+
 </div>
