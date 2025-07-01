@@ -49,6 +49,7 @@ A passionate fullstack developer from Switzerland :switzerland:.
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-00D1B2?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
