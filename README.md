@@ -23,6 +23,7 @@ A passionate fullstack developer from Switzerland :switzerland:.
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=orange)
 
 </div>
 <div align="center">
