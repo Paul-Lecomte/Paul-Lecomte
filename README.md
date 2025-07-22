@@ -88,6 +88,7 @@ A passionate fullstack developer from Switzerland :switzerland:.
 
 ## Some Stats
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7513&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Paul-Lecomte&show_icons=true&locale=en&layout=compact&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Lecomte&theme=dark&locale=en)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Paul-Lecomte&show_icons=true&locale=en&theme=dark)
