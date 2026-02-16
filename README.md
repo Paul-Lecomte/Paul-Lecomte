@@ -53,6 +53,7 @@ A passionate fullstack developer from Switzerland :switzerland:.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-CC0033?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
 
