@@ -28,6 +28,7 @@ A passionate fullstack developer from Switzerland :switzerland:.
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=orange)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 <div align="center">
